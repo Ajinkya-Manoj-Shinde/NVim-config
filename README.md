@@ -31,4 +31,4 @@
    * **Windows:** `~/AppData/Local/nvim/`
 
    ```bash
-   git clone <YOUR_REPOSITORY_URL> ~/.config/nvim # or appropriate path
+   git clone https://github.com/Ajinkya-Manoj-Shinde/NVim-config.git ~/.config/nvim 
